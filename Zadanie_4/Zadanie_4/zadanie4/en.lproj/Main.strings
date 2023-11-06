@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; configuration.title = "Enter"; ObjectID = "36u-tl-AoS"; */
+"36u-tl-AoS.configuration.title" = "Enter";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "36u-tl-AoS"; */
+"36u-tl-AoS.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Wprowadz imie"; ObjectID = "J1S-St-knb"; */
+"J1S-St-knb.placeholder" = "Wprowadz imie";
